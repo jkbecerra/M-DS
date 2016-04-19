@@ -1,2 +1,2 @@
 # M-DS
-Sistema de Información para la Trasabilidad de registro de clientes.
+Sistema de Información para la trasabilidad de registro de clientes, ventas y productos.
